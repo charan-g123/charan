@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+a=44
+print(a)
+print(a+2)
+print(a-22)
+print(a%5)
+print(a-45)
+b=12
+print(b)
+print(b*2)
+print(b*a)
+print(a)
+print(a%b)
